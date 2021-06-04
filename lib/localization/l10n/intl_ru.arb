@@ -1,0 +1,10 @@
+{
+    "galleryTitle": "Фото галлерея",
+    "buttonMakePhoto": "Сделать фото",
+
+    "makePhotoTitle": "Сделать фото",
+    "makePhotoHint": "Вводите имя фото здесь...",
+    "makePhotoErrorPhotoEmpty": "Пожалуйста, сделайте сначала фото",
+    "makePhotoErrorNameEmpty": "Имя не может быть пустым",
+    "buttonSavePhoto": "Сохранить фото"
+}

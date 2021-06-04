@@ -1,0 +1,10 @@
+{
+    "galleryTitle": "Photo gallery",
+    "buttonMakePhoto": "Make photo",
+
+    "makePhotoTitle": "Make photo",
+    "makePhotoHint": "Type here photo name...",
+    "makePhotoErrorPhotoEmpty": "Please make photo first",
+    "makePhotoErrorNameEmpty": "Name can't be empty",
+    "buttonSavePhoto": "Save photo"
+}
